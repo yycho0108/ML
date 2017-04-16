@@ -8,4 +8,4 @@ Exploratory Repository for Machine Learning
 
 ### Links
 
-Heavily Inspired by [TensorFlow-Tutorials](https://github.comm/golbin/TensorFlow-Tutorials.git), and other links to come
+Heavily Inspired by [TensorFlow-Tutorials](https://github.comm/golbin/TensorFlow-Tutorials), and other links to come
